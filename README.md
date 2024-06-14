@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MIVHealth
 
 a eye health website that forcuses on teaching both doctors and patients about eye health while simultaneously treating and collecting eye information to learn more and teach again
@@ -48,3 +49,7 @@ Moved to [Live reloading and SASS compilation](https://cookiecutter-django.readt
 ## Deployment
 
 The following details how to deploy this application.
+=======
+# mivhealth
+Website that run ,displays and educates eye health professionals and clients about eye health
+>>>>>>> 94e7edfe71b6e25a358c4d0ab54ef8fa36747e2b
